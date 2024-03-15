@@ -19,17 +19,17 @@ source .venv/bin/activate ## ACTIVATE
 
 ## INSTALAÇÃO DE PACOTES
 
-  ```bash
-  pip install matplotlib
-  pip install pandas
-  python -m pip install pandas-stubs # TYPES FOR pandas
-  pip install seaborn
-  pip install types-seaborn # TYPES FOR seaborn
-  pip install plotly
-  pip install -U kaleido # EXPORT plotly CHARTS
-  pip install tabulate # REQUIRED TO CONVERT DATAFRAMES TO MARKDOWN TABLES
-  pip install stemgraphic # STEM AND LEAF PLOTS
-  ```
+```bash
+pip install matplotlib
+pip install pandas
+python -m pip install pandas-stubs # TYPES FOR pandas
+pip install seaborn
+pip install types-seaborn # TYPES FOR seaborn
+pip install plotly
+pip install -U kaleido # EXPORT plotly CHARTS
+pip install tabulate # REQUIRED TO CONVERT DATAFRAMES TO MARKDOWN TABLES
+pip install stemgraphic # STEM AND LEAF PLOTS
+```
 
 ## EXTENSÕES PARA VSCODE
 
